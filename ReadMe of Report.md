@@ -49,3 +49,6 @@ The following machine learning algorithms have been implemented on the data:
     
 
 By harnessing these algorithms, we aim to uncover the subtle patterns and relationships within the data, providing a predictive lens through which we can better understand and anticipate forest fire occurrences in Algeria. This not only aids in preparedness and response strategies but also contributes significantly to research and knowledge in the field of environmental data science.
+
+# Results
+The results of the machine learning models are compared and evaluated, and the best performing model is selected based on its accuracy.
