@@ -1,4 +1,4 @@
-# Forest Fire Datasets and Analysis Report
+# Forest Fire Prediction and Analysis
 
 This repository is a treasure trove of discovery and algorithmic alchemy, focusing on the Algerian forest fires dataset. Our quest is to harness the power of historical data, using exploratory data analysis and machine learning sorcery, to predict the elusive patterns of future forest fires in Algeria. By intertwining data with prediction, we aim to unlock secrets nestled in the heart of nature's fiery phenomena.
 
